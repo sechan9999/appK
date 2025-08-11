@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korean Sauna & Jjimjilbang Guide</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+    <header class="py-5 text-white d-flex align-items-center" style="min-height: 80vh; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://pimg.mk.co.kr/news/cms/202506/25/news-p.v1.20250625.bad6e786fa6d4266838751fde7c61a24_P1.jpg'); background-size: cover; background-position: center;">
+        <div class="container">
+            <div class="text-center mb-4">
+                <h1 class="fw-bold">Korean Sauna & Jjimjilbang Guide</h1>
+                <!-- [수정됨] 부제목에 id를 추가했습니다. -->
+                <p class="lead" id="header-subtitle">대한민국 전국의 사우나와 찜질방 정보를 찾아보세요.</p>
+            </div>
+            <div class="row justify-content-center g-2">
+                <div class="col-md-8">
+                    <!-- 검색창은 이미 id="search-input"을 가지고 있습니다. -->
+                    <input type="text" class="form-control" id="search-input" placeholder="찜질방 이름으로 검색...">
+                </div>
+                <div class="col-auto d-flex align-items-center gap-2">
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-light" id="lang-ko">한국어</button>
+                        <button type="button" class="btn btn-light" id="lang-en">English</button>
+                        <button type="button" class="btn btn-light" id="lang-ja">日本語</button>
+                    </div>
+                    <button type="button" class="btn btn-outline-success" id="jeju-toggle">제주도만 보기</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <div class="row" id="sauna-container">
+            <!-- 자바스크립트가 여기에 찜질방 카드들을 동적으로 채워넣을 것입니다. -->
+        </div>
+    </main>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="static/script.js"></script>
+</body>
+</html>

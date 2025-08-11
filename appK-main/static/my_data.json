@@ -1,0 +1,353 @@
+[
+    {
+        "name_ko": "건강나라",
+        "name_en": "Healthy country",
+        "name_ja": "健康な国",
+        "address_ko": "제주특별자치도 서귀포시 홍중로 74",
+        "address_en": "74, Hongjung -ro, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "74、Hongjung -Ro、Seogwipo -si、jeju Special Self -Governing州",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3e/6d/3a/caption.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "name_ko": "제주참숯가마찜질방",
+        "name_en": "Jeju Charcoal Garbaby Jjimjilbang",
+        "name_ja": "済州炭のガーバビー・ジミルバン",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 삼달로 47",
+        "address_en": "47 Samdal -ro, Seongsan -eup, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "47 Samdal -Ro、Seongsan -Eup、Seogwipo -si、Jeju Special Self -Governing州",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqQxvl_Y-gD1l9a-P-fQ4ApCQgo3XhFYrDA&s"
+    },
+    {
+        "name_ko": "웰니스 제주",
+        "name_en": "Wellness Jeju",
+        "name_ja": "ウェルネスジェジュ",
+        "address_ko": "제주특별자치도 제주시 용문로 127 2층",
+        "address_en": "Jeju Special Self -Governing Province, Yongmun -ro 127",
+        "address_ja": "済州特別自治州、Yongmun -Ro 127",
+        "image_url": "https://pimg.mk.co.kr/news/cms/202303/01/news-p.v1.20230213.9a0ed55d954f4ee69e68646cf3e8755b_P1.jpg"
+    },
+    {
+        "name_ko": "면역공방 제주점",
+        "name_en": "Immune Workshop Jeju Branch",
+        "name_ja": "免疫ワークショップ済州支部",
+        "address_ko": "제주특별자치도 제주시 도두항서7길 2 2층",
+        "address_en": "2F 2F 2",
+        "address_ja": "2F 2F 2",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyNDA2MjJfODEg/MDAxNzE5MDQ0MDU1ODg4.07ZSCbNaZqVfYpkSfw8N3W4VG6jJzUTWn8hs5b0X9Zwg._rv3eHUWB4gx2kCmRzt1bC8qYyQMCf8F59zFr9r63dcg.JPEG/1719044054937.jpg?type=w800"
+    },
+    {
+        "name_ko": "힐스템 도남점",
+        "name_en": "Hillstem Donam",
+        "name_ja": "ヒルスタットドナム",
+        "address_ko": "제주특별자치도 제주시 구남동8길 53 2층",
+        "address_en": "2F, 53, 8 -gil, Gunam -dong, Jeju -si, Jeju -do",
+        "address_ja": "2f、53、8 -gil、gunam -dong、jeju -si、jeju -do",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXNsIPykuznPWg4NjgiXMpTWhSnhltTeslDg&s"
+    },
+    {
+        "name_ko": "솔트힐링 노형센터",
+        "name_en": "Salt Healing Nohyeong Center",
+        "name_ja": "塩の癒しのノヒョンセンター",
+        "address_ko": "제주특별자치도 제주시 다랑곶4길 38 1층",
+        "address_en": "Jeju Special Self -Governing Province, 38, Daranggot 4 -gil, Jeju -si",
+        "address_ja": "済州特別自治州、38、Daranggot 4 -Gil、jeju -si",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxODExMDhfNDUg/MDAxNTQxNjQ0ODkyNDY1.Avd5DJptyhQprXIlSsa1CFNeQqoEc2G2sXiiCiMELNgg.bRGVARISkhlBiTFhkZoXRuHc_3-d7jg5FcCgTwj0lN4g.JPEG.jangbugon/image_4983946301541644582248.jpg?type=w800"
+    },
+    {
+        "name_ko": "힐스템 도두점",
+        "name_en": "Hillstem Dodu Store",
+        "name_ja": "Hillstem Doduストア",
+        "address_ko": "제주특별자치도 제주시 서해안로 488 1층",
+        "address_en": "1F, 488, West Coast, Jeju -si, Jeju -do",
+        "address_ja": "1f、488、西海岸、済州〜jeju -do",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdWRshWOLJsc_XA1m8wBNgsFggh00D99OuQ&s"
+    },
+    {
+        "name_ko": "숲속힐링매니아 제주본점",
+        "name_en": "Forest healing enthusiast Jeju",
+        "name_ja": "森の癒し愛好家済州",
+        "address_ko": "제주특별자치도 제주시 신성로 84",
+        "address_en": "84 Sinseong -ro, Jeju -si, Jeju Special Self -Governing Province",
+        "address_ja": "84 Sinseong -ro、jeju -si、jeju Special Self -Governing州",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxODEwMjNfMjUz/MDAxNTQwMjQ3MDk4NDg2.NPoUBVlpDjyL5zP4G4hEaQ4J4MrG4AigS89FsdXUneog.yYJguNZCK4wnUZsB45a8qCnj2JdfeOl2MiDnUvtzZlQg.JPEG.kgb23467/1540099859291.jpg?type=w800"
+    },
+    {
+        "name_ko": "솔트스파소금찜질방",
+        "name_en": "Salt Spa Salt Jjimjilbang",
+        "name_ja": "Salt Spa Salt Jjimjilbang",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 신고로 88",
+        "address_en": "88 Shingo -ro, Seongsan -eup, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "88 Shingo -Ro、Seongsan -Eup、Seogwipo -si、Jeju Special Self -Governing州",
+        "image_url": "https://data.heykorean.com/ktown/YellowPG/YellowPG_USER/newyp/31_12_2014/2356123267245228.jpg"
+    },
+    {
+        "name_ko": "힐링포레스트카타리나",
+        "name_en": "Healing Forest Katarina",
+        "name_ja": "癒しの森のカタリーナ",
+        "address_ko": "제주특별자치도 제주시 애조로 969 1층",
+        "address_en": "Jeju Special Self -Governing Province, Jeju City, 969, 1st floor",
+        "address_ja": "済州特別自治州、済州市、969、1階",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cb/f5/85/caption.jpg?w=900&h=500&s=1"
+    },
+    {
+        "name_ko": "제주아리마찜질방",
+        "name_en": "Jeju Arima Jjimjilbang",
+        "name_ja": "jeju arima jjimjilbang",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 난고로34번길 90-20",
+        "address_en": "90-20, Nango-ro 34beon-gil, Seongsan-eup, Seogwipo-si, Jeju Special Self-Governing Province",
+        "address_ja": "90-20、Nango-Ro 34beon-Gil、Seongsan-eup、Seogwipo-Si、Jeju Special Self Governing州",
+        "image_url": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F997A5F375B251D8D1D"
+    },
+    {
+        "name_ko": "더쉼효소 2호점",
+        "name_en": "The Rest Enzyme 2",
+        "name_ja": "残りの酵素2",
+        "address_ko": "제주특별자치도 제주시 황사평길 35 1층",
+        "address_en": "Jeju Special Self -Governing Province, Jeju -si, Jeju -si, 35th floor",
+        "address_ja": "済州特別自治州、済州、jeju -si、35階",
+        "image_url": "https://d3edy9y3v7d67c.cloudfront.net/rooms/5578/images/960/i38162.jpg"
+    },
+    {
+        "name_ko": "힐스템 하귀점",
+        "name_en": "Hillstem Hagi Store",
+        "name_ja": "Hillstem Hagiストア",
+        "address_ko": "제주특별자치도 제주시 애월읍 하귀로 51 1층",
+        "address_en": "51st, Hagwi -ro, Aewol -eup, Jeju -si, Jeju -do",
+        "address_ja": "51st、hagwi -ro、aewol -eup、jeju -si、jeju -do",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPh5LwOo79ljI_3Lr3-3B1xiSS1odAD5ARKA&s"
+    },
+    {
+        "name_ko": "힐스템 아라센타점",
+        "name_en": "Hillstem Arasen RBI",
+        "name_ja": "Hillstem Arasen RBI",
+        "address_ko": "제주특별자치도 제주시 중앙로 574",
+        "address_en": "574 Jungang -ro, Jeju -si, Jeju Special Self -Governing Province",
+        "address_ja": "574 Jungang -Ro、jeju -si、jeju Special Self -Governing州",
+        "image_url": "https://data.heykorean.com/community/2025/04/24/40320f8999ba.jpeg"
+    },
+    {
+        "name_ko": "제주힐링매니아",
+        "name_en": "Jeju Healing Mania",
+        "name_ja": "済州ヒーリングマニア",
+        "address_ko": "제주특별자치도 서귀포시 표선면 표선중앙로 92 2층",
+        "address_en": "Jeju Special Self -Governing Province, Pyoseon -myeon, Pyoseon -myeon, Seogwipo -si, 92 floor",
+        "address_ja": "済州特別自治州、Pyoseon -Myeon、Pyoseon -Myeon、Seogwipo -si、92フロア",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiDKF3PC5hb7LcRS0SnWpGCsMSlmMMcKpSg&s"
+    },
+    {
+        "name_ko": "힐스템",
+        "name_en": "Hillstem",
+        "name_ja": "丘幹",
+        "address_ko": "제주특별자치도 제주시 연삼로 690",
+        "address_en": "690, Yeonsam -ro, Jeju -si, Jeju -do",
+        "address_ja": "690、ヨンオンサム-ro、jeju -si、jeju -do",
+        "image_url": "http://www.iksanopennews.com/news/photo/202001/482833_35054_5348.jpg"
+    },
+    {
+        "name_ko": "힐스템 안덕점",
+        "name_en": "Hillstem Andeok Branch",
+        "name_ja": "Hillstem andeok支店",
+        "address_ko": "제주특별자치도 서귀포시 안덕면 사계신항로 18 3층",
+        "address_en": "18th floor of the four seasons new port in Andeok -myeon, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "アンデクの四季の18階の新しい港-Myeon、Seogwipo -si、jeju Special Self -Governing州",
+        "image_url": "https://simg.pstatic.net/static.map/v2/map/staticmap.bin?caller=smarteditor&markers=color%3A0x11cc73%7Csize%3Amid%7Cpos%3A126.3220562%2033.2489179%7CviewSizeRatio%3A0.7%7Ctype%3Ad&w=700&h=315&scale=2&dataversion=171.02"
+    },
+    {
+        "name_ko": "제주 드림타워 찜질 스파",
+        "name_en": "Jeju Dream Tower Jjimjil Spa",
+        "name_ja": "済州ドリームタワーJjimjilスパ",
+        "address_ko": "제주특별자치도 제주시 노연로 12 제주드림타워 6층 찜질 스파",
+        "address_en": "Jeju Special Self -Governing Province, Jeju Dream Tower, 6th floor of Jeju Dream Tower",
+        "address_ja": "済州特別自己育児州、済州ドリームタワー、済州ドリームタワーの6階",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3445996352092991449"
+    },
+    {
+        "name_ko": "아르마쑥찜질",
+        "name_en": "Armarug",
+        "name_ja": "アルマルグ",
+        "address_ko": "제주특별자치도 서귀포시 중앙로 44",
+        "address_en": "44, Jungang -ro, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "44、Jungang -Ro、Seogwipo -si、jeju Special Self -Governing州",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxNzA2MTVfNzMg/MDAxNDk3NDk5NjUwNjU2.amIWPWZDvvnhEN15sO6jWus6ShNcnmdIo9z-NDYE9Rcg.S-lYC10pPw1IXUBqfMx_JTnyAB3FJyBZVmf4OsjFggkg.JPEG.ddongssa37/P1080078.JPG?type=w800"
+    },
+    {
+        "name_ko": "솔트힐링스파",
+        "name_en": "Salt Healing Spa",
+        "name_ja": "塩の治癒スパ",
+        "address_ko": "제주특별자치도 제주시 연대마을길 33 1층",
+        "address_en": "Jeju Special Self -Governing Province, Jeju -si, Jeju -si, Jeju -do 33, 1st floor",
+        "address_ja": "済州特別自治州、済州、jeju、jeju -si、jeju -do 33、1階",
+        "image_url": "https://www.santehealingspas.com/wp-content/uploads/2023/08/infrared-thumb.jpg"
+    },
+    {
+        "name_ko": "플러스온편백찜질카페",
+        "name_en": "Plus On Cypress Jjimjil Cafe",
+        "name_ja": "さらに、サイプレスJjimjil Cafeで",
+        "address_ko": "제주특별자치도 제주시 신설로7길 10 1층",
+        "address_en": "Jeju Special Self -Governing Province, Jeju -si, 10 -gil, 10th floor",
+        "address_ja": "済州特別自治州、済州、jeju -si、10ギル、10階",
+        "image_url": "https://www.tiktok.com/api/img/?itemId=7429167047520554257&location=0&aid=1988"
+    },
+    {
+        "name_ko": "알트라",
+        "name_en": "Altra",
+        "name_ja": "アルトラ",
+        "address_ko": "제주특별자치도 서귀포시 중앙로62번길 2 2층",
+        "address_en": "2F 2F 2, Jungang -ro 62beon -gil, Seogwipo -si, Jeju",
+        "address_ja": "2f 2f 2、Jungang -ro 62beon -gil、seogwipo -si、jeju",
+        "image_url": "https://cdn.runrepeat.com/storage/gallery/product_primary/39676/altra-lone-peak-hiker-2-primary-21182939-main.jpg"
+    },
+    {
+        "name_ko": "힐스템 중문점",
+        "name_en": "Hillstem Jungmun branch",
+        "name_ja": "ヒルスタットジョンムン支店",
+        "address_ko": "제주특별자치도 서귀포시 천제연로232번길 15 3층",
+        "address_en": "15th floor of 1522beon -gil, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "15222beon -Gil、Seogwipo -si、済州特別自己育成省",
+        "image_url": "https://img.lottehotel.com/cms/asset/2025/06/18/28865/386-720mo-mai-GLOBAL%20(1).webp"
+    },
+    {
+        "name_ko": "심부주열해독찜질",
+        "name_en": "Uriorslion detoxification",
+        "name_ja": "uriorslion解毒",
+        "address_ko": "제주특별자치도 제주시 애월읍 하귀로 51 1층",
+        "address_en": "51st, Hagwi -ro, Aewol -eup, Jeju -si, Jeju -do",
+        "address_ja": "51st、hagwi -ro、aewol -eup、jeju -si、jeju -do",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2688375301579523112"
+    },
+    {
+        "name_ko": "담소앤힐링테라피 문부로점",
+        "name_en": "Chat and Healing Therapy",
+        "name_ja": "チャット療法と癒しの療法",
+        "address_ko": "제주특별자치도 서귀포시 동홍로 42 2층",
+        "address_en": "2F, Donghong -ro 42, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "2f、Donghong -ro 42、seogwipo -si、jeju Special Self -Governing州",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxOTA4MDdfOTgg/MDAxNTY1MTIxNTc0MTMz.Se6McdgdGZCABssXvH1BhJOXFxRkvVrobG0GbAH0CHAg.usdkfO2VYG-JA2OK6_SJt7sEW6lWd7y3Q0i-1v3JEgsg.PNG.ietlix9iadj3t/1.png?type=w420"
+    },
+    {
+        "name_ko": "힐스템 도두점",
+        "name_en": "Hillstem Dodu Store",
+        "name_ja": "Hillstem Doduストア",
+        "address_ko": "제주특별자치도 제주시 서해안로 131 2층",
+        "address_en": "Jeju Special Self -Governing Province, 131, West Coast, Jeju -si, Jeju -do",
+        "address_ja": "済州特別自治州、131、西海岸、jeju -si、jeju -do",
+        "image_url": "https://blogthumb.pstatic.net/MjAyMDA1MDdfNzQg/MDAxNTg4ODQ0MTc2MTUy.oB5-6QW0j_rPEsiFIwIjgoWTRyWOkKuzxR3o_cuzu7Ag.vWGyfreySouMjt79aWEIWm4hPrR3-wbv9QMdm3IFgsgg.JPEG.raincouver/%C8%FA%BD%BA%C5%DB0230.jpg?type=w2"
+    },
+    {
+        "name_ko": "더제이호텔찜질해독방",
+        "name_en": "The Sea Hotel",
+        "name_ja": "シーホテル",
+        "address_ko": "제주특별자치도 서귀포시 표선면 표선중앙로90번길 12 2층",
+        "address_en": "Jeju Special Self -Governing Province, 12th floor, Pyoseon -myeon, Pyoseon -myeon, Seogwipo -si",
+        "address_ja": "済州特別自治州、12階、Pyoseon -Myeon、Pyoseon -Myeon、Seogwipo -si",
+        "image_url": "https://www.tiktok.com/api/img/?itemId=7519458062109789448&location=0&aid=1988"
+    },
+    {
+        "name_ko": "가호방 제주지사",
+        "name_en": "Gahobang Jeju Governor",
+        "name_ja": "ガホバン・ジェジュ知事",
+        "address_ko": "제주특별자치도 제주시 삼성로18길 23 1층",
+        "address_en": "Jeju Special Self -Governing Province, 23rd floor, Samsung -ro 18 -gil, Jeju -si",
+        "address_ja": "済州特別自治州、23階、Samsung -Ro 18 -gil、jeju -si",
+        "image_url": "https://assets.isu.pub/document-structure/250228102851-e159671b22ebb9eac8ba8e59c2887d98/v1/9a86a8e9ee4da7714017b0f865895be8.jpeg"
+    },
+    {
+        "name_ko": "해바라기",
+        "name_en": "sunflower",
+        "name_ja": "ひまわり",
+        "address_ko": "제주특별자치도 서귀포시 중앙로 55-1 지하",
+        "address_en": "55-1 Jungang-ro, Seogwipo-si, Jeju Special Self-Governing Province",
+        "address_ja": "55-1 Jungang-Ro、Seogwipo-Si、jeju特別自治州",
+        "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=760957774041254"
+    },
+    {
+        "name_ko": "빌리켄하우스",
+        "name_en": "Billy Ken House",
+        "name_ja": "ビリー・ケン・ハウス",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 난고로34번길 90-20",
+        "address_en": "90-20, Nango-ro 34beon-gil, Seongsan-eup, Seogwipo-si, Jeju Special Self-Governing Province",
+        "address_ja": "90-20、Nango-Ro 34beon-Gil、Seongsan-eup、Seogwipo-Si、Jeju Special Self Governing州",
+        "image_url": "https://media.vrbo.com/lodging/102000000/101460000/101451300/101451245/67adcc5f.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    },
+    {
+        "name_ko": "서광찜질방(휴업중)",
+        "name_en": "Seokwang Jjimjilbang (while closed)",
+        "name_ja": "seokwang jjimjilbang（閉じている間）",
+        "address_ko": "제주특별자치도 서귀포시 안덕면 서광남로 144-4",
+        "address_en": "144-4, Seogwangnam-ro, Andeok-myeon, Seogwipo-si, Jeju Special Self-Governing Province",
+        "address_ja": "144-4、Seogwangnam-ro、Andeok-Myeon、Seogwipo-Si、済州特別自治州",
+        "image_url": "https://i.calameoassets.com/210610032853-e60ce4dd0c7f97b29f7555848f1fe224/large.jpg"
+    },
+    {
+        "name_ko": "빌리켄찜질방",
+        "name_en": "Billy Ken Jjimjilbang",
+        "name_ja": "ビリー・ケン・ジミルバン",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 난고로34번길 90-20",
+        "address_en": "90-20, Nango-ro 34beon-gil, Seongsan-eup, Seogwipo-si, Jeju Special Self-Governing Province",
+        "address_ja": "90-20、Nango-Ro 34beon-Gil、Seongsan-eup、Seogwipo-Si、Jeju Special Self Governing州",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3650220764038798379"
+    },
+    {
+        "name_ko": "찜질방매점",
+        "name_en": "Steamer",
+        "name_ja": "汽船",
+        "address_ko": "제주특별자치도 서귀포시 월드컵로 21",
+        "address_en": "Jeju Special Self -Governing Province Seogwipo -si World Cup",
+        "address_ja": "済州特別自己育成州Seogwipo -siワールドカップ",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3617623027283712468"
+    },
+    {
+        "name_ko": "워터월드",
+        "name_en": "Waterworld",
+        "name_ja": "ウォーターワールド",
+        "address_ko": "제주특별자치도 서귀포시 월드컵로 33 제주월드컵경기장 서문에 위치 (지하 1층)",
+        "address_en": "Jeju Special Self -Governing Province, Seogwipo -si World Cup -ro 33 Jeju World Cup Stadium is located in the west gate of Jeju World Cup Stadium (first floor)",
+        "address_ja": "済州の特別自治州、Seogwipo -siワールドカップ-ro 33 jejuワールドカップスタジアムは、済州ワールドカップスタジアム（1階）の西門にあります",
+        "image_url": "https://www.tiktok.com/api/img/?itemId=7461461037812813063&location=0&aid=1988"
+    },
+    {
+        "name_ko": "용두암해수랜드",
+        "name_en": "Yongduam Seawater Land",
+        "name_ja": "ヨンドゥアム海水ランド",
+        "address_ko": "제주특별자치도 제주시 서해안로 630",
+        "address_en": "630, West Coast -ro, Jeju -si, Jeju Special Self -Governing Province",
+        "address_ja": "630、西海岸-ro、jeju -si、jeju特別自己育成州",
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAyMjExMDlfODQg/MDAxNjY3OTU0MTc1MTEz.YDa-E-DBfxfmIA2GyIFD_qQHLuV3Vaf_xtU49XFG1acg.c3pHU6V-AO_tVqyVbI8fRMMTnrHIl34MzRj2mXgFJZsg.JPEG.kshs35/20221105%EF%BC%BF142145.jpg?type=w800"
+    },
+    {
+        "name_ko": "유자보석사우나",
+        "name_en": "Citron jewelry sauna",
+        "name_ja": "シトロンジュエリーサウナ",
+        "address_ko": "제주특별자치도 제주시 연동4길 16-11 유자보석사우나",
+        "address_en": "Jeju Special Self-Governing Province, Jeju-si, Jeju-si, 16-11 Citizen Jewelry Sauna",
+        "address_ja": "済州特別自治省、済州シー、済州シー、16-11シチズンジュエリーサウナ",
+        "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100075833953492"
+    },
+    {
+        "name_ko": "오레브핫스프링앤스파",
+        "name_en": "Oreb Hot Spring & Spa",
+        "name_ja": "オレブ温泉＆スパ",
+        "address_ko": "제주특별자치도 서귀포시 태평로 152",
+        "address_en": "152 Taepyeong -ro, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "152 Taepyeong -ro、seogwipo -si、jeju特別自己育成州",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3564593727600953964"
+    },
+    {
+        "name_ko": "힐스템",
+        "name_en": "Hillstem",
+        "name_ja": "丘幹",
+        "address_ko": "제주특별자치도 제주시 관덕로8길 32 2층",
+        "address_en": "2F, 32, Gwandeok -ro 8 -gil, Jeju -si, Jeju -do",
+        "address_ja": "2f、32、gwandeok -ro 8 -gil、jeju -si、jeju -do",
+        "image_url": "http://www.iksanopennews.com/news/photo/202001/482833_35054_5348.jpg"
+    },
+    {
+        "name_ko": "제주참숯가마찜질방전기차충전소",
+        "name_en": "Jeju Charcoal Charcoal Kiljakbang Electric Tea Charging Station",
+        "name_ja": "済州チャコールチャコールキルジャクバン電気茶充電ステーション",
+        "address_ko": "제주특별자치도 서귀포시 성산읍 삼달로 47",
+        "address_en": "47 Samdal -ro, Seongsan -eup, Seogwipo -si, Jeju Special Self -Governing Province",
+        "address_ja": "47 Samdal -Ro、Seongsan -Eup、Seogwipo -si、Jeju Special Self -Governing州",
+        "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3678369658413034280"
+    }
+]
